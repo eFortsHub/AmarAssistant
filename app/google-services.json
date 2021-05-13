@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602329776465",
+    "project_id": "amar-assistant-1335f",
+    "storage_bucket": "amar-assistant-1335f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602329776465:android:7cb3234691c3e809b85370",
+        "android_client_info": {
+          "package_name": "com.amarassistant.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602329776465-781nq49lc4c1dn0i38ob0vrqcj3i2moo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6n2-jErdnZFlZrL5pozi37QXSyMP3NU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602329776465-781nq49lc4c1dn0i38ob0vrqcj3i2moo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
