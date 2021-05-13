@@ -11,8 +11,8 @@ android {
         applicationId "com.amarassistant.android"
         minSdkVersion 16
         targetSdkVersion 30
-        versionCode 6
-        versionName "0.3"
+        versionCode 8
+        versionName "0.8.1"
 
 
         multiDexEnabled true
